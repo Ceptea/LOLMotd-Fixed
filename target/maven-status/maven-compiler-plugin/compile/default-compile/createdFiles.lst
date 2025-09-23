@@ -1,0 +1,4 @@
+com\lolmotd\LOLMotd.class
+com\lolmotd\MotdListener.class
+com\lolmotd\LOLMotd$ReloadCommand.class
+com\lolmotd\ReloadCommand.class
