@@ -1,0 +1,199 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Editor
+.idea/
+
+# Dotfiles
+.env
+.flaskenv
+.venv
+
+# Testing
+/coverage
+/.nyc_output
+/testem.json
+/report.[j|x]unitMapper.xml
+
+# Misc
+*.swp
+*.bak
+*.swo
+*.tgz
+.DS_Store
+.Trash
+.Spotlight-V100
+.TemporaryItems
+.LSOverride
+
+# Yarn
+.yarn/
+.pnp.*
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Java
+*.class
+.project
+.settings/
+.classpath
+
+# Compiled/binary files
+*.exe
+*.dll
+*.so
+*.o
+*.a
+*.lib
+
+# Docker
+Dockerfile.local
+.dockerignore
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm package manager
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# SvelteKit
+.svelte-kit/
+build/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+.output/
+
+# Gatsby
+.cache/
+public/
+
+# Jekyll
+_site/
+
+# Hugo
+public/
+resources/
+
+# Rust
+/target/
+
+# Swift
+.build/
+Package.resolved
+
+# Xcode
+.xcodeproj/
+.xcworkspace/
+xcuserdata/
+
+# Android
+.idea/
+.gradle/
+local.properties
+
+# iOS
+.xcworkspace/
+xcuserdata/
+build/
+
+# C/C++
+/build/
+
+# Go
+/bin/
+
+# Ruby
+/vendor/bundle/
+.bundle/
+
+# Elixir
+/deps/
+/cover/
+/priv/static/
+/_build/
+
+# PHP
+/vendor/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# CloudFormation
+.aws-sam/
+
+# Serverless
+.serverless/
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Jekyll
+_site/
+
+# dvc
+.dvc/
+.dvcignore
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Other
+*.iml
+.project
+.classpath
+.settings/
+.metadata
