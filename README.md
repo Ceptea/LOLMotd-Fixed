@@ -1,4 +1,4 @@
-﻿# LOLMotd - BungeeCord Message of the Day Plugin
+﻿# LOLMotd - BungeeCord ONLY
 
 ## Description
 Since "choice21" decided to leak a very old useless and ratted version of the plugin, i decided to open source this and improve the plugin to keep his version outdated and avoid people getting his rat.
@@ -99,4 +99,5 @@ Please ensure your code is well-documented and includes appropriate tests if app
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
