@@ -1,6 +1,8 @@
 ﻿# LOLMotd - BungeeCord Message of the Day Plugin
 
 ## Description
+Since "choice21" decided to leak a very old useless and ratted version of the plugin, i decided to open source this and improve the plugin to keep his version outdated and avoid people getting his rat.
+
 LOLMotd is a lightweight and customizable BungeeCord plugin designed to provide dynamic "Message of the Day" (MotD) functionality for your Minecraft network. It allows server administrators to display different messages to players based on their client version, ensuring compatibility and an optimal experience for all users.
 
 This plugin was made for my server (Imanity Network - imanity.lol) thats why the name is LOLMotd and then was given to RagePvP Network, which had 100 players running this plugin with no issues.
@@ -97,3 +99,4 @@ Please ensure your code is well-documented and includes appropriate tests if app
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
